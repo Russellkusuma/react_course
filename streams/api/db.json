@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "coding stream",
+      "description": "ur crinnnnggeee duuude",
+      "id": 1
+    },
+    {
+      "title": "YADA YADA",
+      "description": "DESCRIPTION TEST",
+      "id": 2
+    },
+    {
+      "title": "YAGAYEET",
+      "description": "YOO",
+      "id": 4
+    },
+    {
+      "title": "Tester 123 I edited this!",
+      "description": "Description 567",
+      "id": 6
+    },
+    {
+      "title": "Me streaming component reuse I CHANGED THIS",
+      "description": "bla bla 0987",
+      "userId": "108509457629569859401",
+      "id": 7
+    }
+  ]
+}
